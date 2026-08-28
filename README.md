@@ -43,6 +43,6 @@ The dashboard is structured into three main pages balancing high-level overviews
 ![Data Model](https://raw.githubusercontent.com/islamyasser424-design/Adidas-Dashboard/main/Screenshot%202026-08-28%20222106.png)
 
 ## 📂 Repository Contents
-* `.pbix` file (Power BI dashboard)
+* `[.pbix](https://github.com/islamyasser424-design/Adidas-Dashboard/blob/main/Adids%20PROJECT.pbix)` file (Power BI dashboard)
 * Cleaned dataset / source files
 * Project preview screenshots
