@@ -1,5 +1,12 @@
 # 🚀 Adidas Sales Analysis Dashboard
 
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![DAX](https://img.shields.io/badge/DAX-Measures-blue?style=for-the-badge)]()
+[![Data Modeling](https://img.shields.io/badge/Data_Model-Star_Schema-8b5cf6?style=for-the-badge)]()
+[![Domain](https://img.shields.io/badge/Domain-Sales%20Analytics-green?style=for-the-badge)]()
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-06b6d4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://islamyasser424-design.github.io/portfolio-/)
+
+
 An interactive Business Intelligence project built using Power BI to analyze global sales performance, track financial metrics, and uncover regional insights for strategic decision-making.
 
 ## 📊 Dashboard Structure & Core Highlights
@@ -46,3 +53,19 @@ The dashboard is structured into three main pages balancing high-level overviews
 * `[.pbix](https://github.com/islamyasser424-design/Adidas-Dashboard/blob/main/Adids%20PROJECT.pbix)` file (Power BI dashboard)
 * Cleaned dataset / source files
 * Project preview screenshots
+---
+
+## 👤 Author & Connect
+
+**Islam Yasser**  
+*Data Analyst & Business Intelligence Specialist*
+
+* 🌐 **Portfolio Website:** [islamyasser424-design.github.io/portfolio-](https://islamyasser424-design.github.io/portfolio-/)
+* 💼 **LinkedIn Profile:** [linkedin.com/in/islam-yasser-55048b378](https://www.linkedin.com/in/islam-yasser-55048b378/)
+* 🐙 **GitHub Profile:** [@islamyasser424-design](https://github.com/islamyasser424-design)
+* ✉️ **Email:** [islamyasser424@gmail.com](mailto:islamyasser424@gmail.com)
+
+---
+<p align="center">
+  <sub>Part of the Business Intelligence & Enterprise Analytics Portfolio. Engineered with industry-standard star schema modeling and DAX optimization.</sub>
+</p>
